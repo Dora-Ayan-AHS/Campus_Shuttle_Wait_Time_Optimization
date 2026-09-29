@@ -1,0 +1,7 @@
+Georgia Tech Shuttle Optimization Results
+
+   Shuttle Frequency (min)  Average Wait Time  Max Queue Length  Students Served
+0                        5               2.11                12              338
+1                       10               4.75                20              351
+2                       15               7.21                31              347
+3                       20              10.43                46              341
